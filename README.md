@@ -1,1 +1,1 @@
-# Part 17: Create Vue Components for accessing Resources - Home Page
+# Part 18: Create Vue Components for accessing Resources - Role-based Pages
