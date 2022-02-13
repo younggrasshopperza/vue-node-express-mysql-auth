@@ -1,1 +1,1 @@
-# Part 4: Define the Sequelize Model
+# Part 5: Initialize Sequelize
