@@ -1,1 +1,1 @@
-# Part 13: Data service
+# Part 14: Define Vuex Authentication module
