@@ -1,1 +1,1 @@
-# Part 5: Initialize Sequelize
+# Part 6: Configure Auth Key
