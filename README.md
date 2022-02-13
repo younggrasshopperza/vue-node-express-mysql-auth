@@ -1,1 +1,1 @@
-# Part 16: Create Vue 3 Authentication Components - Profile Page
+# Part 17: Create Vue Components for accessing Resources - Home Page
