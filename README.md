@@ -1,1 +1,1 @@
-# Part 6: Configure Auth Key
+# Part 7: Create Middleware functions
