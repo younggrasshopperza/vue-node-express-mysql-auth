@@ -1,12 +1,12 @@
 <template>
-  <div class="col-md-12">
+  <div class="col-md-12 p-5">
     <div class="card card-container">
       <img
         id="profile-img"
         src="//ssl.gstatic.com/accounts/ui/avatar_2x.png"
-        class="profile-img-card"
+        class="profile-img-card p-5"
       />
-      <Form @submit="handleRegister" :validation-schema="schema">
+      <Form @submit="handleRegister" :validation-schema="schema" class="p-5">
         <div v-if="!successful">
           <div class="form-group">
             <label for="username">Username</label>
@@ -115,3 +115,9 @@ export default {
   },
 };
 </script>
+<style scoped>
+.profile-img-card {
+  width: 25%;
+  height: 25%;
+}
+</style>
