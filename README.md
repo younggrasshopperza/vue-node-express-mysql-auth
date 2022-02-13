@@ -1,1 +1,1 @@
-# Part 2: Setup Express web server
+# Part 3: Configure MySQL database & Sequelize
