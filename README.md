@@ -1,1 +1,1 @@
-# Part 3: Configure MySQL database & Sequelize
+# Part 4: Define the Sequelize Model
