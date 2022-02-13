@@ -1,1 +1,1 @@
-# Part 11: Setup Vue 3 Project
+# Part 12: Authentication service
